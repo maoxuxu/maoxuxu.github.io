@@ -1,2 +1,0 @@
-- 1st Class Grade Scholarship,  &emsp;  HENU &nbsp; 2023.
-- 1st Class Grade Scholarship,  &emsp;  HENU &nbsp; 2024.
