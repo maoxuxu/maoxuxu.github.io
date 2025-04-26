@@ -10,7 +10,7 @@
 
 - <strong>Yanxu Mao*</strong>, Tiehan Cui*, and Ying Ding. Enhancing Logical Rules Based on Self-Distillation for Document-Level Relation Extraction. <strong>（2025）CCF International Conference on Natural Language Processing and Chinese Computing.（CCF-C）</strong> [[Paper]](https://link.springer.com/chapter/10.1007/978-981-97-9431-7_31)
 
-- Tiehan Cui*, <strong>Yanxu Mao*</strong>, Peipei Liu<sup>†</sup>, Congying Liu, and Datao You. Low-Resource Fast Text Classification Based on Intra-Class and Inter-Class Distance Calculation. <strong>（2025）Proceedings of the 31st International Conference on Computational Linguistics.（CCF-B）</strong> [[Paper]](https://aclanthology.org/2025.coling-main.70/)
+- Tiehan Cui*, <strong>Yanxu Mao*</strong>, Peipei Liu<sup>†</sup>, Congying Liu, and Datao You. Exploring Jailbreak Attacks on LLMs through Intent Concealment and Diversion. <strong>（2025）Findings of the Association for Computational Linguistics.（CCF-A）</strong>[[Paper]]()
 
 
 <h3><span style="font-size:1.5em;">⏳</span> <strong>Under Review</strong></h3>
