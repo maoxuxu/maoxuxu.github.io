@@ -2,8 +2,9 @@
 
 <h3><span style="font-size:1.5em;">🏅</span> <strong>Published</strong></h3>
 
+<!-- 第一个论文条目 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="contents/images/paper1.jpg" alt="YanxuMao2025-COLING" style="width: 150px; height: 90px; margin-right: 20px; border-radius: 5px;" />
+  <img src="images/paper1.jpg" alt="YanxuMao2025-COLING" style="width: 200px; height: 130px; margin-right: 20px; border-radius: 5px;" />
   <div>
     <strong>Yanxu Mao</strong>, Peipei Liu<sup>†</sup>, Tiehan Cui, Congying Liu, and Datao You.  
     Low-Resource Fast Text Classification Based on Intra-Class and Inter-Class Distance Calculation.  
@@ -12,8 +13,9 @@
   </div>
 </div>
 
+<!-- 第二个论文条目 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="images/paper2.jpg" alt="YanxuMao2025-ICASSP" style="width: 150px; height: 90px; margin-right: 20px; border-radius: 5px;" />
+  <img src="images/paper2.jpg" alt="YanxuMao2025-ICASSP" style="width: 200px; height: 130px; margin-right: 20px; border-radius: 5px;" />
   <div>
     <strong>Yanxu Mao</strong>, Xiaohui Chen, Peipei Liu<sup>†</sup>, Tiehan Cui, Zuhui Yue, and Zheng Li.  
     GEGA: Graph Convolutional Networks and Evidence Retrieval Guided Attention for Enhanced Document-level Relation Extraction.  
@@ -22,8 +24,9 @@
   </div>
 </div>
 
+<!-- 第三个论文条目 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="images/paper3.jpg" alt="YanxuMao2025-KAIS" style="width: 150px; height: 90px; margin-right: 20px; border-radius: 5px;" />
+  <img src="images/paper3.jpg" alt="YanxuMao2025-KAIS" style="width: 200px; height: 130px; margin-right: 20px; border-radius: 5px;" />
   <div>
     <strong>Yanxu Mao</strong>, Ying Ding, and Tiehan Cui.  
     A Parameter-free Text Classification Method Based on Dual Compressors.  
@@ -32,8 +35,9 @@
   </div>
 </div>
 
+<!-- 第四个论文条目 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="images/paper4.jpg" alt="YanxuMao2025-NLPCC" style="width: 150px; height: 90px; margin-right: 20px; border-radius: 5px;" />
+  <img src="images/paper4.jpg" alt="YanxuMao2025-NLPCC" style="width: 200px; height: 130px; margin-right: 20px; border-radius: 5px;" />
   <div>
     <strong>Yanxu Mao*</strong>, Tiehan Cui*, and Ying Ding.  
     Enhancing Logical Rules Based on Self-Distillation for Document-Level Relation Extraction.  
@@ -42,8 +46,9 @@
   </div>
 </div>
 
+<!-- 第五个论文条目 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="images/paper5.jpg" alt="YanxuMao2025-FACL" style="width: 150px; height: 90px; margin-right: 20px; border-radius: 5px;" />
+  <img src="images/paper5.jpg" alt="YanxuMao2025-FACL" style="width: 200px; height: 130px; margin-right: 20px; border-radius: 5px;" />
   <div>
     Tiehan Cui*, <strong>Yanxu Mao*</strong>, Peipei Liu<sup>†</sup>, Congying Liu, and Datao You.  
     Exploring Jailbreak Attacks on LLMs through Intent Concealment and Diversion.  
@@ -52,6 +57,7 @@
   </div>
 </div>
 
+<!-- 第六个论文条目 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="images/paper6.jpg" alt="YanxuMao2025-ICIC" style="width: 150px; height: 90px; margin-right: 20px; border-radius: 5px;" />
   <div>
