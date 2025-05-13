@@ -75,6 +75,47 @@
                     (jax, err) => jax.formatError(err)
             }
         };
+
+    fetch('publications.md')
+    .then(response => response.text())
+    .then(text => {
+        const entries = text.split('---'); // 分割每篇论文
+        const container = document.getElementById('publications-container');
+
+        entries.forEach(entry => {
+            const lines = entry.trim().split('\n');
+            if (lines.length === 0) return;
+
+            // 提取图片链接
+            const imgLine = lines[0];
+            const imgMatch = imgLine.match(/!\[(.*?)\]/);
+            const imgSrc = imgMatch ? imgMatch[1].trim() : 'https://via.placeholder.com/120x160';
+
+            // 除去第一行图片
+            const mdContent = lines.slice(1).join('\n');
+
+            // 创建论文条目 DOM
+            const item = document.createElement('div');
+            item.style.display = 'flex';
+            item.style.alignItems = 'flex-start';
+            item.style.marginTop = '30px';
+
+            // 图片
+            const img = document.createElement('img');
+            img.src = imgSrc;
+            img.alt = 'paper image';
+            img.style.width = '120px';
+            img.style.marginRight = '20px';
+            img.style.border = '1px solid #ccc';
+
+            const textDiv = document.createElement('div');
+            textDiv.innerHTML = marked.parse(mdContent);
+
+            item.appendChild(img);
+            item.appendChild(textDiv);
+            container.appendChild(item);
+        });
+    });
     </script>
     <script type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
     <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
@@ -156,6 +197,17 @@
 
         </div>
     </section>
+    <!-- Publications -->
+<section class="bg-gradient-primary-to-secondary-gray mt5 md5" id="publications">
+    <div class="container px-5">
+        <header>
+            <h2 id="publications-subtitle"><i class="bi bi-file-text-fill"></i>&nbsp;PUBLICATIONS</h2>
+        </header>
+
+        <div id="publications-container"></div>
+    </div>
+</section>
+
     <!-- Publications  -->
 
     <!-- Awards -->
@@ -187,7 +239,6 @@
         <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=d-i4zyeRqlmUSeBatSv55Moy1awt9Gyme2Ppb5xqWGo&cl=ffffff&w=a"></script>
         </div>
     </div>
-
     <!-- Footer-->
     <footer class="bg-bottom text-center py-5">
         <div class="container px-5">
