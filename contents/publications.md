@@ -59,7 +59,7 @@
 
 <!-- 第六个论文条目 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="images/paper6.jpg" alt="YanxuMao2025-ICIC" style="width: 150px; height: 90px; margin-right: 20px; border-radius: 5px;" />
+  <img src="images/paper6.jpg" alt="YanxuMao2025-ICIC" style="width: 200px; height: 130px; margin-right: 20px; border-radius: 5px;" />
   <div>
     Jinyang Wang*, Shuai Zhang*, Chang Liu, Tiehan Cui<sup>†</sup>, <strong>Yanxu Mao<sup>†</sup></strong>, and Datao You<sup>†</sup>  
     PIDRCMPP: Rapid Multi-Strategy Hierarchical Jailbreak Attacks on LLMs.  
