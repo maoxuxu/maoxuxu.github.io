@@ -8,7 +8,7 @@
   <div>
     <strong>Yanxu Mao</strong>, Peipei Liu<sup>†</sup>, Tiehan Cui, Congying Liu, and Datao You.  
     Low-Resource Fast Text Classification Based on Intra-Class and Inter-Class Distance Calculation.  
-    <strong>（2025）</strong> Proceedings of the 31st International Conference on Computational Linguistics.（CCF-B）  
+    <strong>（2025） Proceedings of the 31st International Conference on Computational Linguistics.（CCF-B）</strong>
     <a href="https://aclanthology.org/2025.coling-main.70/" target="_blank">[Paper]</a>
   </div>
 </div>
@@ -19,7 +19,7 @@
   <div>
     <strong>Yanxu Mao</strong>, Xiaohui Chen, Peipei Liu<sup>†</sup>, Tiehan Cui, Zuhui Yue, and Zheng Li.  
     GEGA: Graph Convolutional Networks and Evidence Retrieval Guided Attention for Enhanced Document-level Relation Extraction.  
-    <strong>（2025）</strong> IEEE International Conference on Acoustics, Speech and Signal Processing. （CCF-B）  
+    <strong>（2025） IEEE International Conference on Acoustics, Speech and Signal Processing. （CCF-B）</strong>
     <a href="https://ieeexplore.ieee.org/document/10889649" target="_blank">[Paper]</a>
   </div>
 </div>
@@ -30,7 +30,7 @@
   <div>
     <strong>Yanxu Mao</strong>, Ying Ding, and Tiehan Cui.  
     A Parameter-free Text Classification Method Based on Dual Compressors.  
-    <strong>（2025）</strong> Knowledge and Information Systems.（CCF-B）  
+    <strong>（2025） Knowledge and Information Systems.（CCF-B）</strong>
     <a href="https://link.springer.com/article/10.1007/s10115-024-02335-9" target="_blank">[Paper]</a>
   </div>
 </div>
@@ -41,7 +41,7 @@
   <div>
     <strong>Yanxu Mao*</strong>, Tiehan Cui*, and Ying Ding.  
     Enhancing Logical Rules Based on Self-Distillation for Document-Level Relation Extraction.  
-    <strong>（2025）</strong> CCF International Conference on Natural Language Processing and Chinese Computing.（CCF-C）  
+    <strong>（2025） CCF International Conference on Natural Language Processing and Chinese Computing.（CCF-C）</strong>
     <a href="https://link.springer.com/chapter/10.1007/978-981-97-9431-7_31" target="_blank">[Paper]</a>
   </div>
 </div>
@@ -52,7 +52,7 @@
   <div>
     Tiehan Cui*, <strong>Yanxu Mao*</strong>, Peipei Liu<sup>†</sup>, Congying Liu, and Datao You.  
     Exploring Jailbreak Attacks on LLMs through Intent Concealment and Diversion.  
-    <strong>（2025）</strong> Findings of the Association for Computational Linguistics.（CCF-A）  
+    <strong>（2025） Findings of the Association for Computational Linguistics.（CCF-A）</strong>
     <a href="#" target="_blank">[Paper]</a>
   </div>
 </div>
@@ -63,7 +63,7 @@
   <div>
     Jinyang Wang*, Shuai Zhang*, Chang Liu, Tiehan Cui<sup>†</sup>, <strong>Yanxu Mao<sup>†</sup></strong>, and Datao You<sup>†</sup>  
     PIDRCMPP: Rapid Multi-Strategy Hierarchical Jailbreak Attacks on LLMs.  
-    <strong>（2025）</strong> International Conference on Intelligent Computing.（CCF-C）  
+    <strong>（2025） International Conference on Intelligent Computing.（CCF-C）</strong>
     <a href="#" target="_blank">[Paper]</a>
   </div>
 </div>
