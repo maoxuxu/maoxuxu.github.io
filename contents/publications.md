@@ -3,7 +3,7 @@
 <h3><span style="font-size:1.5em;">🏅</span> <strong>Published</strong></h3>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="images/paper1.jpg" alt="YanxuMao2025-COLING" style="width: 150px; height: 90px; margin-right: 20px; border-radius: 5px;" />
+  <img src="contents/images/paper1.jpg" alt="YanxuMao2025-COLING" style="width: 150px; height: 90px; margin-right: 20px; border-radius: 5px;" />
   <div>
     <strong>Yanxu Mao</strong>, Peipei Liu<sup>†</sup>, Tiehan Cui, Congying Liu, and Datao You.  
     Low-Resource Fast Text Classification Based on Intra-Class and Inter-Class Distance Calculation.  
