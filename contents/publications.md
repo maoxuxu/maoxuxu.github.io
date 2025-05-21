@@ -53,7 +53,7 @@
     Tiehan Cui*, <strong>Yanxu Mao*</strong>, Peipei Liu<sup>†</sup>, Congying Liu, and Datao You.  
     Exploring Jailbreak Attacks on LLMs through Intent Concealment and Diversion.  
     <strong>（2025） Findings of the Association for Computational Linguistics.（CCF-A）</strong>
-    <a href="#" target="_blank">[Paper]</a>
+    <a href="https://arxiv.org/pdf/2505.14316" target="_blank">[Paper]</a>
   </div>
 </div>
 
