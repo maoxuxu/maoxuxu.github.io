@@ -1,4 +1,4 @@
-<strong><p><sup>*</sup> Equal contribution. <sup>†</sup> Corresponding author.</p></strong>
+<strong><p>NOTE: * Equal contribution. † Corresponding author.</p></strong>
 
 <h3><span style="font-size:1.5em;">🏅</span> <strong>Published</strong></h3>
 
@@ -68,19 +68,33 @@
   </div>
 </div>
 
-<h3><span style="font-size:1.5em;">⏳</span> <strong>Under Review</strong></h3>
+<h3><span style="font-size:1.5em;">📝</span> <strong>Preprint</strong></h3>
 
 <!-- 第七个论文条目 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <!-- <img src="images/paper7.jpg" alt="YanxuMao2025-DivideAndConquer" style="width: 150px; height: auto; margin-right: 20px; border-radius: 5px;" /> -->
+  <img src="images/paper7.jpg" alt="YanxuMao2025-FromLLMstoMLLMstoAgents" style="width: 200px; height: 150px; margin-right: 40px; border-radius: 5px;" />
   <div>
-    <strong>Yanxu Mao</strong>, Peipei Liu<sup>†</sup>, Tiehan Cui, Congying Liu, and Datao You.  
-    Divide and Conquer: A Hybrid Strategy Defeats Multimodal Large Language Models.  
-    <strong>（Under Review）</strong>
+    <strong>Yanxu Mao</strong>, Tiehan Cui, Peipei Liu<sup>†</sup>, Datao You, and Hongsong Zhu.  
+    From LLMs to MLLMs to Agents: A Survey of Emerging Paradigms in Jailbreak Attacks and Defenses within LLM Ecosystem.  
+    <strong>（Preprint）</strong>
+    <a href="https://arxiv.org/pdf/2506.15170" target="_blank">[Paper]</a>
   </div>
 </div>
 
 <!-- 第八个论文条目 -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="images/paper8.jpg" alt="YanxuMao2025-DivideAndConquer" style="width: 200px; height: 150px; margin-right: 40px; border-radius: 5px;" />
+  <div>
+    <strong>Yanxu Mao</strong>, Peipei Liu<sup>†</sup>, Tiehan Cui, Congying Liu, and Datao You.  
+    Divide and Conquer: A Hybrid Strategy Defeats Multimodal Large Language Models.  
+    <strong>（Preprint）</strong>
+    <a href="https://arxiv.org/pdf/2412.16555" target="_blank">[Paper]</a>
+  </div>
+</div>
+
+<h3><span style="font-size:1.5em;">⏳</span> <strong>Under Review</strong></h3>
+
+<!-- 第九个论文条目 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- <img src="images/paper8.jpg" alt="YanxuMao2025-CPMP" style="width: 150px; height: auto; margin-right: 20px; border-radius: 5px;" /> -->
   <div>
@@ -90,7 +104,7 @@
   </div>
 </div>
 
-<!-- 第九个论文条目 -->
+<!-- 第十个论文条目 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- <img src="images/paper9.jpg" alt="YanxuMao2025-GraphFormer" style="width: 150px; height: auto; margin-right: 20px; border-radius: 5px;" /> -->
   <div>
@@ -100,7 +114,7 @@
   </div>
 </div>
 
-<!-- 第十个论文条目 -->
+<!-- 第十一个论文条目 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- <img src="images/paper10.jpg" alt="YanxuMao2025-DialogueSentiment" style="width: 150px; height: auto; margin-right: 20px; border-radius: 5px;" /> -->
   <div>
@@ -110,7 +124,7 @@
   </div>
 </div>
 
-<!-- 第十一个论文条目 -->
+<!-- 第十二个论文条目 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- <img src="images/paper11.jpg" alt="YanxuMao2025-YouAreExpert" style="width: 150px; height: auto; margin-right: 20px; border-radius: 5px;" /> -->
   <div>
