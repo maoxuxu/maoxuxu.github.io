@@ -73,10 +73,10 @@
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="images/paper6.jpg" alt="YanxuMao2025-ICIC" style="width: 200px; height: 150px; margin-right: 40px; border-radius: 5px;" />
   <div>
-    Jinyang Wang*, Shuai Zhang*, Chang Liu, Tiehan Cui<sup>†</sup>, <strong>Yanxu Mao<sup>†</sup></strong>, and Datao You<sup>†</sup>  
+    Jinyang Wang*, Shuai Zhang*, Chang Liu, Tiehan Cui, <strong>Yanxu Mao<sup>†</sup></strong>, and Datao You  
     PIDRCMPP: Rapid Multi-Strategy Hierarchical Jailbreak Attacks on LLMs.  
     <strong>（2025） International Conference on Intelligent Computing.（CCF-C）</strong>
-    <a href="#" target="_blank">[Paper]</a>
+    <a href="https://link.springer.com/chapter/10.1007/978-981-96-9994-0_8" target="_blank">[Paper]</a>
   </div>
 </div>
 
