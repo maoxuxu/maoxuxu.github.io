@@ -112,11 +112,11 @@
 <!-- 第十个论文条目 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- <img src="images/paper8.jpg" alt="YanxuMao2025-CPMP" style="width: 150px; height: auto; margin-right: 20px; border-radius: 5px;" /> -->
-  <div>
+  <!-- <div>
     <strong>Yanxu Mao</strong>, Tiehan Cui, Jinyang Wang, and Datao You<sup>†</sup>.  
     CPMP: Jailbreaking Smart Customer Agent through Contaminating Short-term and Long-term Memory.  
     <strong>（Under Review）</strong>
-  </div>
+  </div> -->
 </div>
 
 <!-- 第十一个论文条目 -->
@@ -132,9 +132,9 @@
 <!-- 第十二个论文条目 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- <img src="images/paper11.jpg" alt="YanxuMao2025-YouAreExpert" style="width: 150px; height: auto; margin-right: 20px; border-radius: 5px;" /> -->
-  <div>
+  <!-- <div>
     Ying Ding*, <strong>Yanxu Mao*</strong>, and Shunli Zhang<sup>†</sup>.  
     You Are Expert: RAG Injection and Guided Error Expert Activation for Jailbreaking LLMs.  
     <strong>（Under Review）</strong>
-  </div>
+  </div> -->
 </div>
