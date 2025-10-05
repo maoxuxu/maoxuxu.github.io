@@ -116,6 +116,17 @@
   </div>
 </div>
 
+<!-- 第十二个论文条目 -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="images/paper11.jpg" alt="YanxuMao2025-GraphFormer" style="width: 150px; height: auto; margin-right: 20px; border-radius: 5px;" />
+  <div>
+    Peipei Liu, <strong>Yanxu Mao</strong>, Kaixiang Liu, Zhaoteng Yan, Shiwen Xie, Yongfang Xie, Hongsong Zhu, and Limin Sun.  
+    GraphFormer: Document-Level Relation Extractor for Open Source Cyber Threat Intelligence.  
+    <strong>(Preprint, The first author is the student’s supervisor)</strong>
+    <a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.175756204.49475080" target="_blank">[Paper]</a>
+  </div>
+</div>
+
 ---
 <h3><span style="font-size:1.5em;">⏳</span> <strong>Under Review</strong></h3>
 
@@ -127,16 +138,6 @@
     CPMP: Jailbreaking Smart Customer Agent through Contaminating Short-term and Long-term Memory.  
     <strong>（Under Review）</strong>
   </div> -->
-</div>
-
-<!-- 第十二个论文条目 -->
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <!-- <img src="images/paper9.jpg" alt="YanxuMao2025-GraphFormer" style="width: 150px; height: auto; margin-right: 20px; border-radius: 5px;" /> -->
-  <div>
-    Peipei Liu*, <strong>Yanxu Mao*</strong>, Kaixiang Liu, Zhaoteng Yan, Shiwen Xie, Yongfang Xie, Hongsong Zhu, and Limin Sun.  
-    GraphFormer: Document-Level Relation Extractor for Open Source Cyber Threat Intelligence.  
-    <strong>（Under Review）</strong>
-  </div>
 </div>
 
 <!-- 第十三个论文条目 -->
