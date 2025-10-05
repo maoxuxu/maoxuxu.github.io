@@ -118,7 +118,7 @@
 
 <!-- 第十二个论文条目 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="images/paper11.jpg" alt="YanxuMao2025-GraphFormer" style="width: 150px; height: auto; margin-right: 20px; border-radius: 5px;" />
+  <img src="images/paper11.jpg" alt="YanxuMao2025-GraphFormer" style="width: 200px; height: 150px; margin-right: 40px; border-radius: 5px;" />
   <div>
     Peipei Liu, <strong>Yanxu Mao</strong>, Kaixiang Liu, Zhaoteng Yan, Shiwen Xie, Yongfang Xie, Hongsong Zhu, and Limin Sun.  
     GraphFormer: Document-Level Relation Extractor for Open Source Cyber Threat Intelligence.  
