@@ -73,18 +73,27 @@
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="images/paper6.jpg" alt="YanxuMao2025-ICIC" style="width: 200px; height: 150px; margin-right: 40px; border-radius: 5px;" />
   <div>
-    Jinyang Wang*, Shuai Zhang*, Chang Liu, Tiehan Cui, <strong>Yanxu Mao<sup>†</sup></strong>, and Datao You  
+    Jinyang Wang*, Shuai Zhang*, Chang Liu, Tiehan Cui, <strong>Yanxu Mao<sup>†</sup></strong>, and Datao You.  
     PIDRCMPP: Rapid Multi-Strategy Hierarchical Jailbreak Attacks on LLMs.  
     <strong>（2025） International Conference on Intelligent Computing.（CCF-C）</strong>
     <a href="https://link.springer.com/chapter/10.1007/978-981-96-9994-0_8" target="_blank">[Paper]</a>
   </div>
 </div>
 
-
+<!-- 第八个论文条目 -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="images/paper10.jpg" alt="YanxuMao2025-BIBM" style="width: 200px; height: 150px; margin-right: 40px; border-radius: 5px;" />
+  <div>
+    Congying Liu, Peipei Liu<sup>†</sup>, Yiqing Shen, Xingyuan Wei, <strong>Yanxu Mao</strong>, and Tiehan Cui. 
+    BioMedSearch: A Multi-Source Biomedical Retrieval Framework Based on LLMs.  
+    <strong>（2025） IEEE International Conference on Bioinformatics and Biomedicine.（CCF-B）</strong>
+    <a href="" target="_blank">[Paper]</a>
+  </div>
+</div>
 ---
 <h3><span style="font-size:1.5em;">📝</span> <strong>Preprint</strong></h3>
 
-<!-- 第八个论文条目 -->
+<!-- 第九个论文条目 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="images/paper7.jpg" alt="YanxuMao2025-FromLLMstoMLLMstoAgents" style="width: 200px; height: 150px; margin-right: 40px; border-radius: 5px;" />
   <div>
@@ -95,7 +104,7 @@
   </div>
 </div>
 
-<!-- 第九个论文条目 -->
+<!-- 第十个论文条目 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="images/paper8.jpg" alt="YanxuMao2025-DivideAndConquer" style="width: 200px; height: 150px; margin-right: 40px; border-radius: 5px;" />
   <div>
@@ -109,7 +118,7 @@
 ---
 <h3><span style="font-size:1.5em;">⏳</span> <strong>Under Review</strong></h3>
 
-<!-- 第十个论文条目 -->
+<!-- 第十一个论文条目 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- <img src="images/paper8.jpg" alt="YanxuMao2025-CPMP" style="width: 150px; height: auto; margin-right: 20px; border-radius: 5px;" /> -->
   <!-- <div>
@@ -119,7 +128,7 @@
   </div> -->
 </div>
 
-<!-- 第十一个论文条目 -->
+<!-- 第十二个论文条目 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- <img src="images/paper9.jpg" alt="YanxuMao2025-GraphFormer" style="width: 150px; height: auto; margin-right: 20px; border-radius: 5px;" /> -->
   <div>
@@ -129,7 +138,7 @@
   </div>
 </div>
 
-<!-- 第十二个论文条目 -->
+<!-- 第十三个论文条目 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- <img src="images/paper11.jpg" alt="YanxuMao2025-YouAreExpert" style="width: 150px; height: auto; margin-right: 20px; border-radius: 5px;" /> -->
   <!-- <div>
