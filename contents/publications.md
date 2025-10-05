@@ -38,11 +38,11 @@
 
 <!-- 第四个论文条目 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="images/paper4.jpg" alt="YanxuMao2025-NLPCC" style="width: 200px; height: 150px; margin-right: 40px; border-radius: 5px;" />
+  <img src="images/paper4.jpg" alt="YanxuMao2024-NLPCC" style="width: 200px; height: 150px; margin-right: 40px; border-radius: 5px;" />
   <div>
     <strong>Yanxu Mao*</strong>, Tiehan Cui*, and Ying Ding.  
     Enhancing Logical Rules Based on Self-Distillation for Document-Level Relation Extraction.  
-    <strong>（2025） CCF International Conference on Natural Language Processing and Chinese Computing.（CCF-C）</strong>
+    <strong>（2024） CCF International Conference on Natural Language Processing and Chinese Computing.（CCF-C）</strong>
     <a href="https://link.springer.com/chapter/10.1007/978-981-97-9431-7_31" target="_blank">[Paper]</a>
   </div>
 </div>
@@ -130,7 +130,7 @@
 ---
 <h3><span style="font-size:1.5em;">⏳</span> <strong>Under Review</strong></h3>
 
-Coming Soon！！！
+Coming Soon ！！！
 
 <!-- 第十一个论文条目 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
