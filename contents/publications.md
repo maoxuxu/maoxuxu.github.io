@@ -84,7 +84,7 @@
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="images/paper10.jpg" alt="YanxuMao2025-BIBM" style="width: 200px; height: 150px; margin-right: 40px; border-radius: 5px;" />
   <div>
-    Congying Liu, Peipei Liu<sup>†</sup>, Yiqing Shen, Xingyuan Wei, <strong>Yanxu Mao</strong>, and Tiehan Cui. 
+    Congying Liu, Xingyuan Wei, Yiqing Shen, Peipei Liu<sup>†</sup>, <strong>Yanxu Mao</strong>, and Tiehan Cui. 
     BioMedSearch: A Multi-Source Biomedical Retrieval Framework Based on LLMs.  
     <strong>（2025） IEEE International Conference on Bioinformatics and Biomedicine.（CCF-B）</strong>
     <a href="" target="_blank">[Paper]</a>
