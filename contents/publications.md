@@ -91,6 +91,16 @@
   </div>
 </div>
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="images/paper12.jpg" alt="YanxuMao2025-SMC" style="width: 200px; height: 150px; margin-right: 40px; border-radius: 5px;" />
+  <div>
+    Deyu Lei, Bingbing Zhao, <strong>Yanxu Mao</strong>, Wentao Li, and Datao You<sup>†</sup>. 
+    YOLO-FHE: A Lightweight and Efficient Feature Aggregation Network for Object Detection in Remote Sensing.
+    <strong>（2025） IEEE International Conference on Systems, Man, and Cybernetics.（CCF-C）</strong>
+    <a href="" target="_blank">[Paper]</a>
+  </div>
+</div>
+
 ---
 <h3><span style="font-size:1.5em;">📝</span> <strong>Preprint</strong></h3>
 
