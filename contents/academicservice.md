@@ -1,2 +1,2 @@
-- Reviewer：ICIC 2025, ICASSP 2025, IJCNN 2024/2025.
-- Co-reviewer：IP&M, ACL 2025, NeurIPS 2025.
+- Invited Conference Reviewer for: ICIC 2025, ICASSP 2025, IJCNN 2024/2025, ACL 2026, WWW 2025. 
+- Invited Journal Reviewer for: TDSC.

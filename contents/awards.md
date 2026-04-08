@@ -1,6 +1,7 @@
+- National Scholarship,  &emsp;  HENU &nbsp; 2025.
 - 1st Class Grade Scholarship,  &emsp;  HENU &nbsp; 2023.
 - 1st Class Grade Scholarship,  &emsp;  HENU &nbsp; 2024.
 - 1st Class Grade Scholarship,  &emsp;  HENU &nbsp; 2025.
-- National Scholarship,  &emsp;  HENU &nbsp; 2025.
+- Henan University Hou Jingru Scholarship,  &emsp;  HENU &nbsp; 2025.
 - "Three Good" Student of Henan Province (the only quota from the School of Software).
 - Outstanding Graduate Student of Henan University.
