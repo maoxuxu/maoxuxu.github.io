@@ -5,6 +5,17 @@
 
 <!-- 第一个论文条目 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="images/paper13.jpg" alt="YanxuMao2026-ACL" style="width: 250px; height: 150px; margin-right: 40px; border-radius: 5px;" />
+  <div>
+    <strong>Yanxu Mao</strong>, Peipei Liu<sup>†</sup>, Tiehan Cui, Congying Liu, Mingzhe Xing, and Datao You.  
+    Stop Fixating on Prompts: Reasoning Hijacking and Constraint Tightening for Red-Teaming LLM Agents.
+    <strong>（2026） Proceedings of the 64rd Annual Meeting of the Association for Computational Linguistics.（CCF-A）</strong>
+    <a href="https://arxiv.org/abs/2604.05549" target="_blank">[Paper]</a>
+  </div>
+</div>
+
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="images/paper1.jpg" alt="YanxuMao2025-COLING" style="width: 250px; height: 150px; margin-right: 40px; border-radius: 5px;" />
   <div>
     <strong>Yanxu Mao</strong>, Peipei Liu<sup>†</sup>, Tiehan Cui, Congying Liu, and Datao You.  
@@ -14,7 +25,7 @@
   </div>
 </div>
 
-<!-- 第二个论文条目 -->
+
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="images/paper2.jpg" alt="YanxuMao2025-ICASSP" style="width: 200px; height: 150px; margin-right: 40px; border-radius: 5px;" />
   <div>
@@ -25,7 +36,7 @@
   </div>
 </div>
 
-<!-- 第三个论文条目 -->
+
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="images/paper3.jpg" alt="YanxuMao2025-KAIS" style="width: 200px; height: 150px; margin-right: 40px; border-radius: 5px;" />
   <div>
@@ -36,7 +47,7 @@
   </div>
 </div>
 
-<!-- 第四个论文条目 -->
+
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="images/paper4.jpg" alt="YanxuMao2024-NLPCC" style="width: 200px; height: 150px; margin-right: 40px; border-radius: 5px;" />
   <div>
@@ -47,7 +58,7 @@
   </div>
 </div>
 
-<!-- 第五个论文条目 -->
+
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="images/paper5.jpg" alt="YanxuMao2025-FACL" style="width: 200px; height: 150px; margin-right: 40px; border-radius: 5px;" />
   <div>
@@ -58,38 +69,50 @@
   </div>
 </div>
 
-<!-- 第六个论文条目 -->
+
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="images/paper9.jpg" alt="YanxuMao2025-DialogueSentiment" style="width: 200px; height: 150px; margin-right: 40px; border-radius: 5px;" />
   <div>
     Ying Ding*, <strong>Yanxu Mao*</strong>, and Shunli Zhang<sup>†</sup>.  
     Dialogue Multi-dimensional Feature Dividing and Fusion Model for Dialogue Aspect-based Sentiment Quadruple Analysis.  
     <strong>（2025） CCF International Conference on Natural Language Processing and Chinese Computing.（CCF-C）</strong>
-    <a href="#" target="_blank">[Paper]</a>
+    <a href="https://link.springer.com/chapter/10.1007/978-981-95-3349-7_26" target="_blank">[Paper]</a>
   </div>
 </div>
 
-<!-- 第七个论文条目 -->
+
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="images/paper6.jpg" alt="YanxuMao2025-ICIC" style="width: 200px; height: 150px; margin-right: 40px; border-radius: 5px;" />
   <div>
-    Jinyang Wang*, Shuai Zhang*, Chang Liu, Tiehan Cui, <strong>Yanxu Mao<sup>†</sup></strong>, and Datao You.  
+    Jinyang Wang, Shuai Zhang, Chang Liu, Tiehan Cui, <strong>Yanxu Mao<sup>†</sup></strong>, and Datao You.  
     PIDRCMPP: Rapid Multi-Strategy Hierarchical Jailbreak Attacks on LLMs.  
     <strong>（2025） International Conference on Intelligent Computing.（CCF-C）</strong>
     <a href="https://link.springer.com/chapter/10.1007/978-981-96-9994-0_8" target="_blank">[Paper]</a>
   </div>
 </div>
 
-<!-- 第八个论文条目 -->
+
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="images/paper10.jpg" alt="YanxuMao2025-BIBM" style="width: 200px; height: 150px; margin-right: 40px; border-radius: 5px;" />
   <div>
     Congying Liu, Xingyuan Wei, Yiqing Shen, Peipei Liu<sup>†</sup>, <strong>Yanxu Mao</strong>, and Tiehan Cui. 
     BioMedSearch: A Multi-Source Biomedical Retrieval Framework Based on LLMs.  
     <strong>（2025） IEEE International Conference on Bioinformatics and Biomedicine.（CCF-B）</strong>
-    <a href="" target="_blank">[Paper]</a>
+    <a href="https://ieeexplore.ieee.org/abstract/document/11356779/" target="_blank">[Paper]</a>
   </div>
 </div>
+
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="images/paper14.jpg" alt="YanxuMao2026-ICME" style="width: 250px; height: 150px; margin-right: 40px; border-radius: 5px;" />
+  <div>
+    Congying Liu, Taihao Li, Ming Huang, Peipei Liu<sup>†</sup>, Xingyuan Wei, Yiqing Shen, <strong>Yanxu Mao</strong>, and Tiehan Cui.
+    ProtRLSearch: A Multi-Round Multimodal Protein Search Agent with Large Language Models Trained via Reinforcement Learning  
+    <strong>（2026） IEEE International Conference on Multimedia and Expo.（CCF-B）</strong>
+    <a href="https://arxiv.org/abs/2603.01464" target="_blank">[Paper]</a>
+  </div>
+</div>
+
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="images/paper12.jpg" alt="YanxuMao2025-SMC" style="width: 200px; height: 150px; margin-right: 40px; border-radius: 5px;" />
@@ -97,14 +120,25 @@
     Deyu Lei, Bingbing Zhao, <strong>Yanxu Mao</strong>, Wentao Li, and Datao You<sup>†</sup>. 
     YOLO-FHE: A Lightweight and Efficient Feature Aggregation Network for Object Detection in Remote Sensing.
     <strong>（2025） IEEE International Conference on Systems, Man, and Cybernetics.（CCF-C）</strong>
-    <a href="" target="_blank">[Paper]</a>
+    <a href="https://ieeexplore.ieee.org/abstract/document/11343512/" target="_blank">[Paper]</a>
+  </div>
+</div>
+
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="images/paper15.jpg" alt="YanxuMao2025-TJSC" style="width: 200px; height: 150px; margin-right: 40px; border-radius: 5px;" />
+  <div>
+    Datao You, Bingbing Zhao, Deyu Lei, and <strong>Yanxu Mao</strong>. 
+    A robust multi-scale ship detection approach leveraging edge focus enhancement and dilated residual aggregation.
+    <strong>（2025） The Journal of Supercomputing.（CCF-C）</strong>
+    <a href="https://link.springer.com/article/10.1007/s11227-025-08026-8" target="_blank">[Paper]</a>
   </div>
 </div>
 
 ---
 <h3><span style="font-size:1.5em;">📝</span> <strong>Preprint</strong></h3>
 
-<!-- 第九个论文条目 -->
+
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="images/paper7.jpg" alt="YanxuMao2025-FromLLMstoMLLMstoAgents" style="width: 200px; height: 150px; margin-right: 40px; border-radius: 5px;" />
   <div>
@@ -115,7 +149,7 @@
   </div>
 </div>
 
-<!-- 第十个论文条目 -->
+
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="images/paper8.jpg" alt="YanxuMao2025-DivideAndConquer" style="width: 200px; height: 150px; margin-right: 40px; border-radius: 5px;" />
   <div>
@@ -126,7 +160,7 @@
   </div>
 </div>
 
-<!-- 第十二个论文条目 -->
+
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="images/paper11.jpg" alt="YanxuMao2025-GraphFormer" style="width: 200px; height: 150px; margin-right: 40px; border-radius: 5px;" />
   <div>
