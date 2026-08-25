@@ -1,2 +1,2 @@
-- Invited Conference Reviewer for: ICIC 2025, ICASSP 2025, IJCNN 2024/2025, ACL 2026, WWW 2025. 
-- Invited Journal Reviewer for: TDSC.
+- Invited Conference Reviewer for: ACL 2026, AAAI 2026, WWW 2025, ICIC 2025, ICASSP 2025, IJCNN 2024/2025. 
+- Invited Journal Reviewer for: TDSC,	DMKD, TJSC, Neurocomputing.
