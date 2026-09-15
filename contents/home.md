@@ -14,13 +14,16 @@
   </a>
 </div>
 <br>
-I’m a graduate student at the School of Software, Henan University. My research focuses on NLP, including Document-level Relation Extraction (DocRE), Dialog-based Aspect Sentiment Questioning (DiaASQ), Named Entity Recognition (NER), and Text Classification (TC). In addition, my work involves Large Language Models (LLMs), Multimodal Large Language Models (MLLMs), and intelligent agents, with a particular emphasis on security analysis, specifically Jailbreaking techniques.
+I’m a graduate student at School of Computer Science, Shanghai Jiao Tong University. My research focuses on NLP, including Document-level Relation Extraction (DocRE), Dialog-based Aspect Sentiment Questioning (DiaASQ), Named Entity Recognition (NER), and Text Classification (TC). In addition, my work involves Large Language Models (LLMs), Multimodal Large Language Models (MLLMs), and intelligent agents, with a particular emphasis on security analysis, specifically Jailbreaking techniques.
 <br>
-<br>
+<!-- <br> -->
 
-#### Education
-M.E., Network and Information Security, Henan University, 2023—2026 (expected).<!-- B.E., Software Engineering, Henan University, 2019—2023. -->
-<br>
+<!-- #### Education -->
+
+<!-- M.E., School of Computer Science, Shanghai Jiao Tong University, (expected). -->
+<!-- M.E., Network and Information Security, Henan University, 2023—2026 (expected). -->
+<!-- B.E., Software Engineering, Henan University, 2019—2023. -->
+<!-- <br> -->
 
 #### Research Interests
 Intelligent Agent Security, LLM Jailbreaking Attacks, and Natural Language Processing (Text Classification, Relation Extraction, Sentiment Analysis).
