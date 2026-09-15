@@ -10,7 +10,7 @@
     <strong>Yanxu Mao</strong>, Peipei Liu<sup>†</sup>, Tiehan Cui, Congying Liu, Mingzhe Xing, and Datao You.  
     Stop Fixating on Prompts: Reasoning Hijacking and Constraint Tightening for Red-Teaming LLM Agents.
     <strong>（2026） Proceedings of the 64rd Annual Meeting of the Association for Computational Linguistics.（CCF-A）</strong>
-    <a href="https://arxiv.org/abs/2604.05549" target="_blank">[Paper]</a>
+    <a href="https://aclanthology.org/2026.acl-long.1197/" target="_blank">[Paper]</a>
   </div>
 </div>
 
@@ -25,6 +25,15 @@
   </div>
 </div>
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="images/paper16.jpg" alt="YanxuMao2026-ASE" style="width: 200px; height: 150px; margin-right: 40px; border-radius: 5px;" />
+  <div>
+    <strong>Yanxu Mao</strong>, Tiehan Cui, Jinyang Wang，Datao You<sup>†</sup>.  
+    Exploring the security of short-term and long-term contextual memory in industrial smart customer agent.  
+    <strong>（2026） Automated Software Engineering. （CCF-B）</strong>
+    <a href="https://link.springer.com/article/10.1007/s10515-026-00628-7" target="_blank">[Paper]</a>
+  </div>
+</div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="images/paper2.jpg" alt="YanxuMao2025-ICASSP" style="width: 200px; height: 150px; margin-right: 40px; border-radius: 5px;" />
