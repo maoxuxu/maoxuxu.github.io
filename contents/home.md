@@ -6,7 +6,7 @@
   <a href="https://github.com/maoxuxu" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub" style="width: 160px; height: 29px; object-fit: contain;" />
   </a>
-  <a href="https://scholar.google.com/citations?user=YOUR_ID" target="_blank">
+  <a href="https://scholar.google.com/citations?user=YOUR_ID&user=eQPVrAgAAAAJ" target="_blank">
     <img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?logo=google-scholar&logoColor=white" alt="Google Scholar" style="width: 160px; height: 29px; object-fit: contain;" />
   </a>
   <a href="maoxuxu666@163.com" target="_blank">
