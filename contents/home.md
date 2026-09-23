@@ -14,7 +14,8 @@
   </a>
 </div>
 <br>
-I’m a graduate student at School of Computer Science, Shanghai Jiao Tong University. My research focuses on NLP, including Document-level Relation Extraction (DocRE), Dialog-based Aspect Sentiment Questioning (DiaASQ), Named Entity Recognition (NER), and Text Classification (TC). In addition, my work involves Large Language Models (LLMs), Multimodal Large Language Models (MLLMs), and intelligent agents, with a particular emphasis on security analysis, specifically Jailbreaking techniques.
+<!-- I’m a graduate student at School of Computer Science, Shanghai Jiao Tong University.  -->
+My research focuses on NLP, including Document-level Relation Extraction (DocRE), Dialog-based Aspect Sentiment Questioning (DiaASQ), Named Entity Recognition (NER), and Text Classification (TC). In addition, my work involves Large Language Models (LLMs), Multimodal Large Language Models (MLLMs), and intelligent agents, with a particular emphasis on security analysis, specifically Jailbreaking techniques.
 <br>
 <br>
 
