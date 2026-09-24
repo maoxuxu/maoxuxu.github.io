@@ -1,15 +1,16 @@
 <strong><p>NOTE: * Equal contribution. † Corresponding author.</p></strong>
 
 ---
-<h3><span style="font-size:1.5em;">🏅</span> <strong>Published</strong></h3>
 
+<h3><span style="font-size:1.5em;">🏅</span> <strong>Published</strong></h3>
+<br>
 <!-- 第一个论文条目 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="images/paper13.jpg" alt="YanxuMao2026-ACL" style="width: 250px; height: 150px; margin-right: 40px; border-radius: 5px;" />
   <div>
     <strong>Yanxu Mao</strong>, Peipei Liu<sup>†</sup>, Tiehan Cui, Congying Liu, Mingzhe Xing, and Datao You.  
     Stop Fixating on Prompts: Reasoning Hijacking and Constraint Tightening for Red-Teaming LLM Agents.
-    <strong>（2026） Proceedings of the 64rd Annual Meeting of the Association for Computational Linguistics.（CCF-A）</strong>
+    <strong>（2026） Proceedings of the 64rd Annual Meeting of the Association for Computational Linguistics.（ACL）</strong>
     <a href="https://aclanthology.org/2026.acl-long.1197/" target="_blank">[Paper]</a>
   </div>
 </div>
@@ -19,7 +20,7 @@
   <div>
     <strong>Yanxu Mao</strong>, Tiehan Cui, Peipei Liu<sup>†</sup>, Datao You, and Hongsong Zhu.  
     From LLMs to MLLMs to Agents: A Survey of Emerging Paradigms in Jailbreak Attacks and Defenses within LLM Ecosystem.  
-    <strong>（2026） ACM Transactions on Knowledge Discovery from Data.（CCF-B）</strong>
+    <strong>（2026） ACM Transactions on Knowledge Discovery from Data.（TKDD）</strong>
     <a href="https://arxiv.org/pdf/2506.15170" target="_blank">[Paper]</a>
   </div>
 </div>
@@ -29,7 +30,7 @@
   <div>
     <strong>Yanxu Mao</strong>, Tiehan Cui, Jinyang Wang, Datao You<sup>†</sup>.  
     Exploring the security of short-term and long-term contextual memory in industrial smart customer agent.  
-    <strong>（2026） Automated Software Engineering. （CCF-B）</strong>
+    <strong>（2026） Automated Software Engineering. （ASE）</strong>
     <a href="https://link.springer.com/article/10.1007/s10515-026-00628-7" target="_blank">[Paper]</a>
   </div>
 </div>
@@ -40,7 +41,7 @@
   <div>
     <strong>Yanxu Mao</strong>, Peipei Liu<sup>†</sup>, Tiehan Cui, Congying Liu, and Datao You.  
     Low-Resource Fast Text Classification Based on Intra-Class and Inter-Class Distance Calculation.  
-    <strong>（2025） Proceedings of the 31st International Conference on Computational Linguistics.（CCF-B）</strong>
+    <strong>（2025） Proceedings of the 31st International Conference on Computational Linguistics.（COLING）</strong>
     <a href="https://aclanthology.org/2025.coling-main.70/" target="_blank">[Paper]</a>
   </div>
 </div>
@@ -50,7 +51,7 @@
   <div>
     <strong>Yanxu Mao</strong>, Xiaohui Chen, Peipei Liu<sup>†</sup>, Tiehan Cui, Zuhui Yue, and Zheng Li.  
     GEGA: Graph Convolutional Networks and Evidence Retrieval Guided Attention for Enhanced Document-level Relation Extraction.  
-    <strong>（2025） IEEE International Conference on Acoustics, Speech and Signal Processing. （CCF-B）</strong>
+    <strong>（2025） IEEE International Conference on Acoustics, Speech and Signal Processing. （ICASSP）</strong>
     <a href="https://ieeexplore.ieee.org/document/10889649" target="_blank">[Paper]</a>
   </div>
 </div>
@@ -61,7 +62,7 @@
   <div>
     <strong>Yanxu Mao</strong>, Ying Ding, and Tiehan Cui.  
     A Parameter-free Text Classification Method Based on Dual Compressors.  
-    <strong>（2025） Knowledge and Information Systems.（CCF-B）</strong>
+    <strong>（2025） Knowledge and Information Systems.（KAIS）</strong>
     <a href="https://link.springer.com/article/10.1007/s10115-024-02335-9" target="_blank">[Paper]</a>
   </div>
 </div>
@@ -72,7 +73,7 @@
   <div>
     <strong>Yanxu Mao*</strong>, Tiehan Cui*, and Ying Ding.  
     Enhancing Logical Rules Based on Self-Distillation for Document-Level Relation Extraction.  
-    <strong>（2024） CCF International Conference on Natural Language Processing and Chinese Computing.（CCF-C）</strong>
+    <strong>（2024） CCF International Conference on Natural Language Processing and Chinese Computing.（NLPCC）</strong>
     <a href="https://link.springer.com/chapter/10.1007/978-981-97-9431-7_31" target="_blank">[Paper]</a>
   </div>
 </div>
@@ -83,7 +84,7 @@
   <div>
     Tiehan Cui*, <strong>Yanxu Mao*</strong>, Peipei Liu<sup>†</sup>, Congying Liu, and Datao You.  
     Exploring Jailbreak Attacks on LLMs through Intent Concealment and Diversion.  
-    <strong>（2025） Findings of the Association for Computational Linguistics.（CCF-A）</strong>
+    <strong>（2025） Findings of the Association for Computational Linguistics.（ACL）</strong>
     <a href="https://arxiv.org/pdf/2505.14316" target="_blank">[Paper]</a>
   </div>
 </div>
@@ -94,7 +95,7 @@
   <div>
     Ying Ding*, <strong>Yanxu Mao*</strong>, and Shunli Zhang<sup>†</sup>.  
     Dialogue Multi-dimensional Feature Dividing and Fusion Model for Dialogue Aspect-based Sentiment Quadruple Analysis.  
-    <strong>（2025） CCF International Conference on Natural Language Processing and Chinese Computing.（CCF-C）</strong>
+    <strong>（2025） CCF International Conference on Natural Language Processing and Chinese Computing.（NLPCC）</strong>
     <a href="https://link.springer.com/chapter/10.1007/978-981-95-3349-7_26" target="_blank">[Paper]</a>
   </div>
 </div>
@@ -105,7 +106,7 @@
   <div>
     Jinyang Wang, Shuai Zhang, Chang Liu, Tiehan Cui, <strong>Yanxu Mao<sup>†</sup></strong>, and Datao You.  
     PIDRCMPP: Rapid Multi-Strategy Hierarchical Jailbreak Attacks on LLMs.  
-    <strong>（2025） International Conference on Intelligent Computing.（CCF-C）</strong>
+    <strong>（2025） International Conference on Intelligent Computing.（ICIC）</strong>
     <a href="https://link.springer.com/chapter/10.1007/978-981-96-9994-0_8" target="_blank">[Paper]</a>
   </div>
 </div>
@@ -116,7 +117,7 @@
   <div>
     Congying Liu, Xingyuan Wei, Yiqing Shen, Peipei Liu<sup>†</sup>, <strong>Yanxu Mao</strong>, and Tiehan Cui. 
     BioMedSearch: A Multi-Source Biomedical Retrieval Framework Based on LLMs.  
-    <strong>（2025） IEEE International Conference on Bioinformatics and Biomedicine.（CCF-B）</strong>
+    <strong>（2025） IEEE International Conference on Bioinformatics and Biomedicine.（BIBM）</strong>
     <a href="https://ieeexplore.ieee.org/abstract/document/11356779/" target="_blank">[Paper]</a>
   </div>
 </div>
@@ -127,7 +128,7 @@
   <div>
     Congying Liu, Taihao Li, Ming Huang, Peipei Liu<sup>†</sup>, Xingyuan Wei, Yiqing Shen, <strong>Yanxu Mao</strong>, and Tiehan Cui.
     ProtRLSearch: A Multi-Round Multimodal Protein Search Agent with Large Language Models Trained via Reinforcement Learning  
-    <strong>（2026） IEEE International Conference on Multimedia and Expo.（CCF-B）</strong>
+    <strong>（2026） IEEE International Conference on Multimedia and Expo.（ICME）</strong>
     <a href="https://arxiv.org/abs/2603.01464" target="_blank">[Paper]</a>
   </div>
 </div>
@@ -138,7 +139,7 @@
   <div>
     Deyu Lei, Bingbing Zhao, <strong>Yanxu Mao</strong>, Wentao Li, and Datao You<sup>†</sup>. 
     YOLO-FHE: A Lightweight and Efficient Feature Aggregation Network for Object Detection in Remote Sensing.
-    <strong>（2025） IEEE International Conference on Systems, Man, and Cybernetics.（CCF-C）</strong>
+    <strong>（2025） IEEE International Conference on Systems, Man, and Cybernetics.（SMC）</strong>
     <a href="https://ieeexplore.ieee.org/abstract/document/11343512/" target="_blank">[Paper]</a>
   </div>
 </div>
@@ -149,7 +150,7 @@
   <div>
     Datao You, Bingbing Zhao, Deyu Lei, and <strong>Yanxu Mao</strong>. 
     A robust multi-scale ship detection approach leveraging edge focus enhancement and dilated residual aggregation.
-    <strong>（2025） The Journal of Supercomputing.（CCF-C）</strong>
+    <strong>（2025） The Journal of Supercomputing.（TJSC）</strong>
     <a href="https://link.springer.com/article/10.1007/s11227-025-08026-8" target="_blank">[Paper]</a>
   </div>
 </div>
@@ -180,9 +181,10 @@
 </div>
 
 ---
-<h3><span style="font-size:1.5em;">⏳</span> <strong>Under Review</strong></h3>
+<!-- <br> -->
+<!-- <h3><span style="font-size:1.5em;">⏳</span> <strong>Under Review</strong></h3>
 
-Coming Soon ！！！
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coming Soon ！！！ -->
 
 <!-- 第十一个论文条目 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
