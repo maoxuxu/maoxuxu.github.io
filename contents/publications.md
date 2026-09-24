@@ -14,6 +14,26 @@
   </div>
 </div>
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="images/paper7.jpg" alt="YanxuMao2025-FromLLMstoMLLMstoAgents" style="width: 250px; height: 150px; margin-right: 40px; border-radius: 5px;" />
+  <div>
+    <strong>Yanxu Mao</strong>, Tiehan Cui, Peipei Liu<sup>†</sup>, Datao You, and Hongsong Zhu.  
+    From LLMs to MLLMs to Agents: A Survey of Emerging Paradigms in Jailbreak Attacks and Defenses within LLM Ecosystem.  
+    <strong>（2026） ACM Transactions on Knowledge Discovery from Data.（CCF-B）</strong>
+    <a href="https://arxiv.org/pdf/2506.15170" target="_blank">[Paper]</a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="images/paper16.jpg" alt="YanxuMao2026-ASE" style="width: 250px; height: 150px; margin-right: 40px; border-radius: 5px;" />
+  <div>
+    <strong>Yanxu Mao</strong>, Tiehan Cui, Jinyang Wang, Datao You<sup>†</sup>.  
+    Exploring the security of short-term and long-term contextual memory in industrial smart customer agent.  
+    <strong>（2026） Automated Software Engineering. （CCF-B）</strong>
+    <a href="https://link.springer.com/article/10.1007/s10515-026-00628-7" target="_blank">[Paper]</a>
+  </div>
+</div>
+
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="images/paper1.jpg" alt="YanxuMao2025-COLING" style="width: 250px; height: 150px; margin-right: 40px; border-radius: 5px;" />
@@ -22,16 +42,6 @@
     Low-Resource Fast Text Classification Based on Intra-Class and Inter-Class Distance Calculation.  
     <strong>（2025） Proceedings of the 31st International Conference on Computational Linguistics.（CCF-B）</strong>
     <a href="https://aclanthology.org/2025.coling-main.70/" target="_blank">[Paper]</a>
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="images/paper16.jpg" alt="YanxuMao2026-ASE" style="width: 200px; height: 150px; margin-right: 40px; border-radius: 5px;" />
-  <div>
-    <strong>Yanxu Mao</strong>, Tiehan Cui, Jinyang Wang, Datao You<sup>†</sup>.  
-    Exploring the security of short-term and long-term contextual memory in industrial smart customer agent.  
-    <strong>（2026） Automated Software Engineering. （CCF-B）</strong>
-    <a href="https://link.springer.com/article/10.1007/s10515-026-00628-7" target="_blank">[Paper]</a>
   </div>
 </div>
 
@@ -146,17 +156,6 @@
 
 ---
 <h3><span style="font-size:1.5em;">📝</span> <strong>Preprint</strong></h3>
-
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="images/paper7.jpg" alt="YanxuMao2025-FromLLMstoMLLMstoAgents" style="width: 200px; height: 150px; margin-right: 40px; border-radius: 5px;" />
-  <div>
-    <strong>Yanxu Mao</strong>, Tiehan Cui, Peipei Liu<sup>†</sup>, Datao You, and Hongsong Zhu.  
-    From LLMs to MLLMs to Agents: A Survey of Emerging Paradigms in Jailbreak Attacks and Defenses within LLM Ecosystem.  
-    <strong>（Preprint）</strong>
-    <a href="https://arxiv.org/pdf/2506.15170" target="_blank">[Paper]</a>
-  </div>
-</div>
 
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
